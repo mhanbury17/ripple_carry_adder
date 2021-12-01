@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      jacoaud
+HostName                       caen-vnc-mi17.engin.umich.edu
+ProcessIdentifier              1538125
+ProcessCreationTime_UTC        1637261374
+ProcessCreationTime_Readable   Thu Nov 18 13:49:34 2021 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /afs/umich.edu/class/eecs312/f21/jacoaud/FinalProject/D#2dLatch/schematic/sch.oa.cdslck
+TimeEditLocked                 Thu Nov 18 13:50:01 2021 EST
