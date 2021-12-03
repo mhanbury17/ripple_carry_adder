@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      tyricegr
+HostName                       fmcrb3000p02.engin.umich.edu
+ProcessIdentifier              4182
+ProcessCreationTime_UTC        1637256931
+ProcessCreationTime_Readable   Thu Nov 18 12:35:31 2021 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /afs/umich.edu/class/eecs312/f21/tyricegr/Final_Project/1_Bit_adder/schematic/sch.oa.cdslck
+TimeEditLocked                 Thu Nov 18 13:51:40 2021 EST
