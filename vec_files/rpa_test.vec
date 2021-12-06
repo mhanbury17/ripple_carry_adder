@@ -1,0 +1,20 @@
+; Enables waveform output
+output_wf 1
+
+tunit ns
+period 1
+
+radix 44 44 44
+vname A<7:0> B<7:0> S<7:0>
+io ii ii oo
+
+trise 0.05
+tfall 0.05
+vih 1.2
+vil 0
+
+;A<7:0>	B<7:0>	S<7:0>
+00	00	00
+00	00	00
+01	01	02
+01	01	02

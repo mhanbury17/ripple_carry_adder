@@ -1,0 +1,19 @@
+; Enables waveform output
+output_wf 1
+
+radix 1 1 1 1
+vname A B SEL A_mux_B
+io i i i o
+
+tunit ns
+period 1
+
+trise 0.05
+vih 1.2
+vil 0
+
+;A	B	SEL	A_mux_B
+ 0	0	0	0
+ 0	0	0	0
+ 1	0	0	1
+ 1	0	0	1
